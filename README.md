@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GioiaYuen
-- 👀 I’m interested in money
-- 🌱 I’m currently escaping the major of software engineering
-- 💞️ I’m looking to collaborate on other major besides software
-- 📫 Don't reach me ...
+- 👀 I’m interested in 
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 GioiaYuen/GioiaYuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
